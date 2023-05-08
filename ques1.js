@@ -1,0 +1,11 @@
+let firstName= "Vijay";
+let lastName= "Negi";
+let country="India";
+let city="Delhi";
+let age= 21;
+let isMarried= false;
+let year= 2022;
+console.log(typeof(firstName));
+console.log(typeof(age));
+console.log(typeof(isMarried));
+console.log(typeof(year));
